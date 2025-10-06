@@ -2,7 +2,6 @@ streamlit
 matplotlib
 pandas
 numpy
-sqlite3-binary
 requests
 plotly
 scikit-learn
